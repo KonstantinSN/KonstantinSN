@@ -1,9 +1,9 @@
 - Hello world!
-- 👋 Hi, I’m @KonstantinSN
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Konstantin Sivokha
+- 👀 I’m interested in general Information Technology and particularly AI 
+- 🌱 I’m currently learning Blockchain, AI, robotics technology
+- 💞️ I’m looking to collaborate on start-up 
+
 
 <!---
 KonstantinSN/KonstantinSN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
