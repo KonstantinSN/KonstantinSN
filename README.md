@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Konstantin Sivokha
 - 👀 I’m interested in general Information Technology and particularly AI 
 - 🌱 I’m currently learning Blockchain, AI, robotics technology
-- 💞️ I’m looking to collaborate on start-up 
+- 💞️ I’m looking to collaborate on a creating start-up.
 
 
 <!---
